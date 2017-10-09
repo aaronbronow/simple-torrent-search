@@ -1,0 +1,8 @@
+bin\Debug\torrentsearch.exe
+bin\Debug\torrentsearch.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\torrentsearch.Form1.resources
+obj\Debug\torrentsearch.Properties.Resources.resources
+obj\Debug\torrentsearch.csproj.GenerateResource.Cache
+obj\Debug\torrentsearch.exe
+obj\Debug\torrentsearch.pdb
